@@ -2,7 +2,7 @@
   "name": "expensify",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Vishwajeet Raj",
+  "author": "reethik prasad",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack",
