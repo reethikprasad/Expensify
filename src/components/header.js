@@ -12,5 +12,5 @@ const Header = () => (
     </NavLink>
   </header>
 );
-
+//added
 export default Header;
