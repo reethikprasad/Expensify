@@ -41,6 +41,12 @@ build/Release
 node_modules/
 jspm_packages/
 
+public/bundle.js
+public/bundle.js.map
+public/styles.css
+public/styles.css.map
+
+
 # TypeScript v1 declaration files
 typings/
 
@@ -102,7 +108,3 @@ dist
 
 # TernJS port file
 .tern-port
-public/bundle.js
-public/bundle.js.map
-public/styles.css
-public/styles.css.map
